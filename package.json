@@ -1,0 +1,21 @@
+{
+  "name": "bakend-project",
+  "version": "1.0.0",
+  "description": "my first backend ",
+  "keywords": [
+    "node",
+    "js",
+    "express",
+    "js",
+    "chai",
+    "aur",
+    "code"
+  ],
+  "license": "ISC",
+  "author": "saksham",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
